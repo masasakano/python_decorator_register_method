@@ -32,6 +32,8 @@ class MyClass():
 
 Here are other ways to achive "registering a method to an existing file".
 
+(Note <http://www.qtrac.eu/pyclassmulti.html> lists a number of way to do this.)
+
 ### Without a decorator ###
 
 Basically, do the same thing manually without using a decorator:
